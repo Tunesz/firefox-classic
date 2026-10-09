@@ -103,4 +103,4 @@ Quanto mais específico o pedido e melhor o print, melhor o resultado. A IA não
 
 ## Licença
 
-[Escolha uma licença antes de publicar. Por exemplo, MIT.]
+Distribuído sob a licença [MIT](LICENSE). A licença cobre o código deste projeto e não inclui a logo e a marca do Firefox, que pertencem à Mozilla.
