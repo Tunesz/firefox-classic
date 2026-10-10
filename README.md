@@ -2,10 +2,8 @@
 
 Um tema feito só com CSS que deixa o Firefox atual parecido com o Firefox das versões 4 a 28: botão laranja "Firefox" no topo, abas retas com cantos suaves, barra de navegação clara, botão de voltar redondo e uma nova aba cinza clara com a logo clássica.
 
-> **Este projeto foi desenvolvido com o auxílio e o uso de inteligênc artificial (Claude, da Anthropic).**
-> Leia a seção [Limitações e avisos](#limitações-e-avisos) antes de usar.
-
 Autor: João Tunes
+Assistência no desenvolvimento: Claude (Anthropic)
 
 <img width="1920" height="1037" alt="Screenshot" src="https://github.com/user-attachments/assets/1d973299-717a-4252-97fb-e6285e02dd00" />
 
