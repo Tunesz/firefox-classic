@@ -2,10 +2,12 @@
 
 Um tema feito só com CSS que deixa o Firefox atual parecido com o Firefox das versões 4 a 28: botão laranja "Firefox" no topo, abas retas com cantos suaves, barra de navegação clara, botão de voltar redondo e uma nova aba cinza clara com a logo clássica.
 
-> **Este projeto foi desenvolvido com o auxílio e o uso de inteligência artificial (Claude, da Anthropic).**
+> **Este projeto foi desenvolvido com o auxílio e o uso de inteligênc artificial (Claude, da Anthropic).**
 > Leia a seção [Limitações e avisos](#limitações-e-avisos) antes de usar.
 
-Autor: [seu nome ou usuário aqui]
+Autor: João Tunes
+
+<img width="1920" height="1037" alt="Screenshot" src="https://github.com/user-attachments/assets/1d973299-717a-4252-97fb-e6285e02dd00" />
 
 ---
 
@@ -74,16 +76,6 @@ Se o seu Windows está no modo escuro, muitos sites e a nova aba ficam escuros. 
 
 Se quiser, volte `toolkit.legacyUserProfileCustomizations.stylesheets` para `false`. Para desfazer a dica do tema claro, clique em "Redefinir" ao lado de `layout.css.prefers-color-scheme.content-override` no `about:config`.
 
-## Como ajustar com uma IA
-
-Você pode usar uma IA para deixar o visual do seu jeito:
-
-1. Mande para a IA uma **captura de tela do visual que você quer** e outra do **seu Firefox agora**.
-2. Diga seu **sistema operacional** e a **versão do Firefox** (Menu → Ajuda → Sobre o Firefox).
-3. Cole o CSS atual e diga o que está errado ("o botão de voltar está pequeno", "a aba ativa devia ser mais clara").
-4. Teste, mande um print do resultado e peça o próximo ajuste.
-
-Quanto mais específico o pedido e melhor o print, melhor o resultado. A IA não consegue abrir o seu Firefox para testar, então **quem confere o resultado é você**.
 
 ## Limitações e avisos
 
@@ -97,8 +89,8 @@ Quanto mais específico o pedido e melhor o print, melhor o resultado. A IA não
 
 ## Créditos e marcas
 
-- Desenvolvido com o auxílio e o uso de IA (Claude, da Anthropic).
-- "Firefox" e o logotipo do Firefox são marcas da Mozilla. Este é um projeto de fã, **sem qualquer vínculo com a Mozilla**. A logo antiga é usada apenas como referência visual e fica embutida no `userContent.css`.
+- Desenvolvido com o auxílio e o uso de  (Claude, da Anthropic).
+- "Firefox" e o logotipo do Firefox são marcas da Mozilla. Este é um projeto de fã, **sem qualquer vínculo com a Mozilla**. A logo antiga é usada apenas como referênc visual e fica embutida no `userContent.css`.
 - Inspiração visual: Firefox 4 a 28 (2011 a 2014).
 
 ## Licença
